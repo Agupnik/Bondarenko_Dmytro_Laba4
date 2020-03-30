@@ -1,0 +1,13 @@
+C:\Users\bigbo\Desktop\LABA4\LABA4\bin\Debug\LABA4.exe.config
+C:\Users\bigbo\Desktop\LABA4\LABA4\bin\Debug\LABA4.exe
+C:\Users\bigbo\Desktop\LABA4\LABA4\bin\Debug\LABA4.pdb
+C:\Users\bigbo\Desktop\LABA4\LABA4\obj\Debug\LABA4.csprojAssemblyReference.cache
+C:\Users\bigbo\Desktop\LABA4\LABA4\obj\Debug\LABA4.exe
+C:\Users\bigbo\Desktop\LABA4\LABA4\obj\Debug\LABA4.pdb
+C:\Users\bigbo\Desktop\LABA478\LABA4\bin\Debug\LABA4.exe.config
+C:\Users\bigbo\Desktop\LABA478\LABA4\bin\Debug\LABA4.exe
+C:\Users\bigbo\Desktop\LABA478\LABA4\bin\Debug\LABA4.pdb
+C:\Users\bigbo\Desktop\LABA478\LABA4\obj\Debug\LABA4.csprojAssemblyReference.cache
+C:\Users\bigbo\Desktop\LABA478\LABA4\obj\Debug\LABA4.csproj.CoreCompileInputs.cache
+C:\Users\bigbo\Desktop\LABA478\LABA4\obj\Debug\LABA4.exe
+C:\Users\bigbo\Desktop\LABA478\LABA4\obj\Debug\LABA4.pdb
